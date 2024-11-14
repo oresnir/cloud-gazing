@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# VSCode files (if you use VSCode)
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Ignore pictures
+*.jpg
+*.png
+
+# MacOS system files
+.DS_Store
+
+# Ignore cloud images and results
+images/
+output/
+
+# Ignore imagenet_classes.txt
+imagenet_classes.txt
